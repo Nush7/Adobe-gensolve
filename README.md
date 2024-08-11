@@ -14,4 +14,4 @@ P be the set of all paths in R2. The input to our problem is finite subset of pa
 The expected output is another set of paths with the necessary properties of regularization,
 symmetry and completeness as defined in next sections.
 For visualization, we may use SVG format that can be rendered on a browser, and
-the output curve can be in the form of cubic Bezier instead of polylines. T
+the output curve can be in the form of cubic Bezier instead of polylines. 
